@@ -1,0 +1,19 @@
+body {
+    margin: 0 auto;
+}
+/* Text Area */
+.textAreaTag {
+    margin: 10px 30px 10px;
+    display: block;
+}
+.textAreaTag textarea {
+    resize: none;
+    width: 100%;
+}
+/* Keyboard */
+.keyboard {
+margin: 0 30px 5px;
+}
+.keyboard button {
+    width: 8%;
+}
